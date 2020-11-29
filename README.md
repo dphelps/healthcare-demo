@@ -34,7 +34,7 @@ To analyse the data using IPython Notebook:
 
 ## Credit
 
-This material comes from a workship presented at MozFest2015 by
+This material comes from a workship presented at MozFest2015 and has contributions by Alistair Johnson, Tom Pollard, and Matt Zeunert.
 
 
 
